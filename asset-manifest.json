@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/korea_internal/static/css/main.e6c13ad2.css",
+    "main.js": "/korea_internal/static/js/main.09bec12b.js",
+    "static/js/787.719ec76d.chunk.js": "/korea_internal/static/js/787.719ec76d.chunk.js",
+    "index.html": "/korea_internal/index.html",
+    "main.e6c13ad2.css.map": "/korea_internal/static/css/main.e6c13ad2.css.map",
+    "main.09bec12b.js.map": "/korea_internal/static/js/main.09bec12b.js.map",
+    "787.719ec76d.chunk.js.map": "/korea_internal/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.09bec12b.js"
+  ]
+}
